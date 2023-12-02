@@ -1,6 +1,6 @@
 [![MasterHead](https://previews.123rf.com/images/sharafmaksumov/sharafmaksumov1810/sharafmaksumov181004123/109470337-network-engineer-word-cloud-word-cloud-made-with-text-only.jpg)
 <h1 align="center">Hi 👋, I'm Faraz Khan</h1>
-<h3 align="center">A passionate Learner of Networks</h3>
+<h3 align="center">A passionate Learner of Networks and CyberSecurity </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/48574130/118494691-0edbae00-b740-11eb-9b33-96acd66602dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farazkhan0511&label=Profile%20views&color=0e75b6&style=flat" alt="farazkhan0511" /> </p>
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact ** Q* AI is the Future. **
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
