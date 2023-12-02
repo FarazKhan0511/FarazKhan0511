@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fdk00781@gmail.com**
 
-- ⚡ Fun fact **Q* AI is the Future.**
+- ⚡ Fun fact ** Q* AI is the Future. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
