@@ -7,7 +7,7 @@
 
 - 👯 I’m looking forward to study **CCNP CLOUD AWS CCIE.**
 
-- 💬 Ask me about **Routing, RIPV2, RIPV1, OSPF, EIGRP, Static Routing, Access List, NAT, VLAN, Switching, RSTP, PVST, INTER VLAN ROUTING, Subnetting, IP Addressing, OSI Model, Networking , Bat Scripting , AutoCode , Data Center Technologies, Remote Sensing, Cyber Forensics, BlockChain**
+- 💬 Ask me about **Routing, RIPV2, RIPV1, OSPF, EIGRP, Static Routing, Access List, NAT, VLAN, Switching, RSTP, PVST, INTER VLAN ROUTING, Subnetting, IP Addressing, OSI Model, Networking , Bat Scripting , AutoCode , Data Center Technologies, Remote Sensing, Cyber Forensics, BlockChain, Ethical Hacking**
 
 - 📫 How to reach me **fdk00781@gmail.com**
 
