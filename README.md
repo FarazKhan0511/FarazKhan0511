@@ -1,26 +1,8 @@
 ![MasterHead](https://i.ibb.co/K6VyGWk/banner.jpg)
 <h1 align="center">Hi 👋, I'm Faraz Khan</h1>
 <h3 align="center">A passionate Learner of Networks and CyberSecurity </h3>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Autoplay GIF</title>
-</head>
-<body>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/48574130/118494691-0edbae00-b740-11eb-9b33-96acd66602dc.gif" id="autoplayGif">
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var gif = document.getElementById("autoplayGif");
-    gif.play();
-  });
-</script>
-
-</body>
-</html>
+User
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/48574130/118494691-0edbae00-b740-11eb-9b33-96acd66602dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farazkhan0511&label=Profile%20views&color=0e75b6&style=flat" alt="farazkhan0511" /> </p>
 
