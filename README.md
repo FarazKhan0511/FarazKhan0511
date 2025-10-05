@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/K6VyGWk/banner.jpg)
+<img src="./Github_banner.jpg" alt="MasterHead" width="100%">`
 <h1 align="center">Hi 👋, I'm Faraz Khan</h1>
 <h3 align="center">A passionate Learner of Networks and CyberSecurity </h3>
 User
